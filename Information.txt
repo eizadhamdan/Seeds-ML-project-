@@ -6,7 +6,7 @@ It is non-destructive and considerably cheaper than other more sophisticated ima
 The images were recorded on 13x18 cm X-ray KODAK plates.
 Studies were conducted using combine harvested wheat grain originating from experimental fields, explored at the Institute of Agrophysics of the Polish Academy of Sciences in Lublin.
 
-The data set can be used for the tasks of classification and cluster analysis.
+The dataset can be used for the tasks of classification and cluster analysis.
 
 
 Variables information:
