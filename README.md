@@ -31,7 +31,3 @@ All of these parameters were real-valued continuous.
 ```
 https://doi.org/10.24432/C5H30K
 ```
-
-Charytanowicz,Magorzata, Niewczas,Jerzy, Kulczycki,Piotr, Kowalski,Piotr, and Lukasik,Szymon. (2012). seeds. UCI Machine Learning Repository. 
-
-
